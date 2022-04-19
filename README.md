@@ -1,6 +1,7 @@
 # Netflix-Clone
 ## Projeto desenvolvido no curso de Front-end - Danki Code
 
-Dei meu toque pessoal ao site, modificando o conteúdo e depois, 
+Eu já tinha um clone do site da Netflix, desenvolvido no curso de Front-end e anexei algumas alterações propostas no Bootcamp, fiz algumas adaptações com o site original, então de 3 soluções diferentes, saiu esta minha versão.
 
-no Bootcamp Carrefour, adicionei outras seções e um slider; clonando o site original da Netflix
+Fabio Soutto - Desenvolvedor Web
+link do site ativo: https://fabiosoutto.github.io/Netflix-Clone/
