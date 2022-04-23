@@ -14,3 +14,11 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+
+let selectEl = document.getElementsByTagName('select');
+
+selectEl[0].addEventListener('change', function() {
+    location.href=this.value;
+}); 
+
