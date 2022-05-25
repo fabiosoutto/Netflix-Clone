@@ -276,21 +276,21 @@ footer .select-globe img {
 
 @media (max-width: 548px) {
     .logo {
-        max-height: 28px;
+        max-height: 25px;
     }
 
     .btn-login {
-        padding: 0.6rem;
-        font-size: 0.25rem 0.5rem;
+        padding: 0.4rem;
+        font-size: 0.20rem 0.3rem;
     }
 
     .box .content h1 {
-        font-size: 1.75rem;
+        font-size: 1.55rem;
         width: 85%;
     }
         
     .box .content h2 {
-        font-size: 1.125rem;
+        font-size: 1.120rem;
     }
         
     .box .content h3 {
